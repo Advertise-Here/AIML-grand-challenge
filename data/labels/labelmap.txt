@@ -1,0 +1,4 @@
+# label:color_rgb:parts:actions
+Lettuce:250,125,187::
+background:0,0,0::
+crate:28,190,223::
